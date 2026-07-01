@@ -9,7 +9,7 @@ To receive this listing via monthly email newsletter, along with announcements a
 <img src="{{site.baseurl}}/help/img/whatsnew/WN2607-EAS.png" 
 	 alt="" 
 	 class="img-responsive"
-	 style="float: right; margin: 0 0 10px 10px; width: 300px;">
+	 style="float: right; margin: 0 0 10px 10px; width: 350px;">
 <strong style="font-size: 1.2em;">Chat with us at EAS today!</strong><br>
 <p>ADS/SciX team members <a href="{% if include.ads %}../../about/team/team/aaccomazzi.html{% else %}../../scixabout/team/team/aaccomazzi.html{% endif %}">Alberto Accomazzi</a> (ADS PI), <a href="{% if include.ads %}../../about/team/team/klockhart.html{% else %}../../scixabout/team/team/klockhart.html{% endif %}">Kelly Lockhart</a> (ADS Tech Lead), and Sergi Blanco Cuaresma (ADS Research Associate) are staffing the SciX exhibit booth at the <a href="https://eas.unige.ch/EAS2026/index.jsp">European Astronomical Society Annual Meeting</a> taking place June 28-July 3 in Lausanne, Switzerland. Visit <strong>booth #17</strong> to learn more about the transition from ADS to SciX taking place this fall and explore further the SciX platform. Most importantly, help yourself to a range of new SciX logo items fresh off the press. Whether you're a longtime user or just learning about SciX, we'd love to meet you and hear about your research needs.</p>
 
@@ -23,11 +23,11 @@ To receive this listing via monthly email newsletter, along with announcements a
 
 <div style="border: 1px solid #0098da; border-left: 6px solid #0098da; border-radius: 10px; padding: 16px; margin: 20px 0; ">
 <strong style="font-size: 1.2em;">Mt. Wilson Observatory Gen. 3</strong><br>
-	<figure style="text-align: left; margin: 1em auto 2em auto;">
+	<figure style="text-align: center; margin: 1em auto 2em auto;">
 	<img src="{{site.baseurl}}/help/img/whatsnew/WN2607-MTO.png" 
 	 alt="" 
 	 class="img-responsive"
-	 style="float: left; margin: 0 0 10px 10px; width: 300px;">
+	 style="float: left; margin: 0 10px 10px 0; width: 350px;">
     <figcaption style="margin-top: 0.5em; font-size: 0.9em; color: #666;">Image credit: Dan Kohne, MWI</figcaption>
 </figure>
 <p>Project scientist for astrophysics <a href="{% if include.ads %}../../about/team/team/jbartlett.html{% else %}../../scixabout/team/team/jbartlett.html{% endif %}">Jennifer Lynn Bartlett</a> (2nd from left), accompanied (<a href="https://harlowshapley.org/">Harlow Shapley Project</a>; 2nd from right) to <a href="https://www.instagram.com/gabrielevajente/">Gabriele Vajente</a>’s (<a href="https://www.ligo.caltech.edu/">LIGO</a>; right) “Talks + Telescopes” presentation about Gravitational Waves at Mt. Wilson on June 20. <a href="https://outlooknewspapers.com/lacanadaoutlook/news/hale-s-legacy-lives-on-through-grandson/article_c727066a-1f7c-53c1-a090-e248c7d6236d.html">Sam Hale</a> (left), grandson of <a href="https://www.nasonline.org/wp-content/uploads/2024/06/hale-george-ellery.pdf">George Ellery Hale</a>, is president of the <a href="https://www.mtwilson.edu/">Mount Wilson Institute</a>, which took over management of the facility from the <a href="https://carnegiescience.edu/about">Carnegie Institute of Washington</a> in 1989. Deborah is the granddaughter of <a href="https://scixplorer.org/public-libraries/Kk-Cnxx_Qriryu0DxU6Z-g">Martha</a> and <a href="https://scixplorer.org/abs/1995PASP..107.1133T/abstract">Harlow Shapley</a>. Harlow worked at Mt. Wilson from 1914 until 1921. During this period, Martha gave birth to their first three children and published her <a href="https://scixplorer.org/public-libraries/jqWiU27iTyuNgy4dd5tnQg">first 14 astronomical papers</a>, including four first-author papers in the <i><a href="https://iopscience.iop.org/journal/0004-637X">Astrophysical Journal</a></i> or <i><a href="https://iopscience.iop.org/journal/1538-3873">Publications of the Astronomical Society of the Pacific</a></i>. Bartlett is helping Deborah prepare a biography of Martha Shapley.</p>
