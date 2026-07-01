@@ -14,21 +14,24 @@ To receive this listing via monthly email newsletter, along with announcements a
 <p>ADS/SciX team members <a href="{% if include.ads %}../../about/team/team/aaccomazzi.html{% else %}../../scixabout/team/team/aaccomazzi.html{% endif %}">Alberto Accomazzi</a> (ADS PI), <a href="{% if include.ads %}../../about/team/team/klockhart.html{% else %}../../scixabout/team/team/klockhart.html{% endif %}">Kelly Lockhart</a> (ADS Tech Lead), and Sergi Blanco Cuaresma (ADS Research Associate) are staffing the SciX exhibit booth at the <a href="https://eas.unige.ch/EAS2026/index.jsp">European Astronomical Society Annual Meeting</a> taking place June 28-July 3 in Lausanne, Switzerland. Visit <strong>booth #17</strong> to learn more about the transition from ADS to SciX taking place this fall and explore further the SciX platform. Most importantly, help yourself to a range of new SciX logo items fresh off the press. Whether you're a longtime user or just learning about SciX, we'd love to meet you and hear about your research needs.</p>
 
 <p>Alberto Accomazzi is also participating in Special Session 44, “AI and Open Access in modern astronomy publishing” which takes place on Friday, July 3rd. He will be a panelist in block 1 (“Astronomy Publishing Today”) and a speaker in block 2 (“AI in Astronomy Publishing and its Practical Applications”), providing an ADS perspective on the use of AI to support astronomy research. We hope to see you there!</p>
+</div>
 
 <div style="border: 1px solid #cbbc4c; border-left: 6px solid #cbbc4c; border-radius: 10px; padding: 16px; margin: 20px 0; ">
 <strong style="font-size: 1.2em;">ADS and SciX at COSPAR 2026</strong><br>
 <p>The ADS and SciX teams will be at the <a href="https://cospar2026.org/">46th COSPAR Scientific Assembly</a> in Florence, taking place August 1-9, 2026. The assembly will bring together thousands of scientists, engineers, and space agency representatives for over 150 scientific sessions dedicated to sharing the latest advancements in space exploration, planetary science, and climate monitoring. ADS/SciX team members <a href="{% if include.ads %}../../about/team/team/aaccomazzi.html{% else %}../../scixabout/team/team/aaccomazzi.html{% endif %}">Alberto Accomazzi</a> and <a href="{% if include.ads %}../../about/team/team/dchivvis.html{% else %}../../scixabout/team/team/dchivvis.html{% endif %}">Daniel Chivvis</a> will be staffing the SciX booth for the duration of the meeting and Alberto will give a solicited talk about SciX in the <a href="https://www.cospar-assembly.org/admin/session_cospar.php?session=1547">Fair Infrastructure and Open Science Session</a> on Wednesday, August 5th.</p>
-	
+</div>
+
 <div style="border: 1px solid #0098da; border-left: 6px solid #0098da; border-radius: 10px; padding: 16px; margin: 20px 0; ">
-<figure style="text-align: left; margin: 1em auto 2em auto;">
+<strong style="font-size: 1.2em;">Mt. Wilson Observatory Gen. 3</strong><br>
+	<figure style="text-align: left; margin: 1em auto 2em auto;">
 	<img src="{{site.baseurl}}/help/img/whatsnew/WN2607-MTO.png" 
 	 alt="" 
 	 class="img-responsive"
 	 style="float: left; margin: 0 0 10px 10px; width: 300px;">
     <figcaption style="margin-top: 0.5em; font-size: 0.9em; color: #666;">Image credit: Dan Kohne, MWI</figcaption>
 </figure>
-<strong style="font-size: 1.2em;">Mt. Wilson Observatory Gen. 3</strong><br>
 <p>Project scientist for astrophysics <a href="{% if include.ads %}../../about/team/team/jbartlett.html{% else %}../../scixabout/team/team/jbartlett.html{% endif %}">Jennifer Lynn Bartlett</a> (2nd from left), accompanied (<a href="https://harlowshapley.org/">Harlow Shapley Project</a>; 2nd from right) to <a href="https://www.instagram.com/gabrielevajente/">Gabriele Vajente</a>’s (<a href="https://www.ligo.caltech.edu/">LIGO</a>; right) “Talks + Telescopes” presentation about Gravitational Waves at Mt. Wilson on June 20. <a href="https://outlooknewspapers.com/lacanadaoutlook/news/hale-s-legacy-lives-on-through-grandson/article_c727066a-1f7c-53c1-a090-e248c7d6236d.html">Sam Hale</a> (left), grandson of <a href="https://www.nasonline.org/wp-content/uploads/2024/06/hale-george-ellery.pdf">George Ellery Hale</a>, is president of the <a href="https://www.mtwilson.edu/">Mount Wilson Institute</a>, which took over management of the facility from the <a href="https://carnegiescience.edu/about">Carnegie Institute of Washington</a> in 1989. Deborah is the granddaughter of <a href="https://scixplorer.org/public-libraries/Kk-Cnxx_Qriryu0DxU6Z-g">Martha</a> and <a href="https://scixplorer.org/abs/1995PASP..107.1133T/abstract">Harlow Shapley</a>. Harlow worked at Mt. Wilson from 1914 until 1921. During this period, Martha gave birth to their first three children and published her <a href="https://scixplorer.org/public-libraries/jqWiU27iTyuNgy4dd5tnQg">first 14 astronomical papers</a>, including four first-author papers in the <i><a href="https://iopscience.iop.org/journal/0004-637X">Astrophysical Journal</a></i> or <i><a href="https://iopscience.iop.org/journal/1538-3873">Publications of the Astronomical Society of the Pacific</a></i>. Bartlett is helping Deborah prepare a biography of Martha Shapley.</p>
+</div>
 
 ### Development and data holdings updates as of July 1st:
   * Website and API Releases
