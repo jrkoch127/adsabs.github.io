@@ -51,20 +51,16 @@ To receive this listing via monthly email newsletter, along with announcements a
 
 <li>Journals Database Releases</li>
 <ul>
-<li><a href="https://github.com/adsabs/ADSJournalsDB/releases/tag/v1.11.0">v1.3.10</a></li>
-	- [ops] <br>
-<li><a href="https://github.com/adsabs/ADSJournalsDB/releases/tag/v1.11.0">v1.3.9</a></li>
-	- [improved] <br>
-<li><a href="https://github.com/adsabs/ADSJournalsDB/releases/tag/v1.11.0">v1.3.8</a></li>
-	- [ops] <br>
+<li><a href="https://github.com/adsabs/ADSJournalsDB/releases/tag/v1.3.10">v1.3.10</a></li>
+	- [improved] Modified the table that tracks the history of journals to identify predecessor and successor journals by ISSN and coden in addition to bibstem<br>
 </ul>
 
 <li>Nectar Releases</li>
 <ul>
 <li><a href="https://github.com/adsabs/nectar/releases/tag/v0.48.5">v0.48.5</a></li>
-	- [improved] Set icon button size
-	- [fixed] Bug affecting list components in Feedback Forms
-	- [fixed] Make mention and mention_count optional
+	- [improved] Set icon button size<br>
+	- [fixed] Bug affecting list components in Feedback Forms<br>
+	- [fixed] Make mention and mention_count optional<br>
 	- [fixed] Prevent reverting user format change when navigating to Export Formats<br>
 </ul>
 
@@ -72,7 +68,7 @@ To receive this listing via monthly email newsletter, along with announcements a
 <ul>
 <li><a href="https://github.com/adsabs/montysolr/releases/tag/v96.5.2">v96.5.2</a></li>
 	- [ops] Improved performance from query memory allocation<br>
-	- [ops] Auto-populate int/float fields so that new fields are automatically recognized
+	- [ops] Auto-populate int/float fields so that new fields are automatically recognized<br>
 </ul>
 
 <li>Solr-Service Releases</li>
