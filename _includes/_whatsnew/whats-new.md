@@ -38,8 +38,8 @@ To receive this listing via monthly email newsletter, along with announcements a
 
 ### Development and data holdings updates as of July 1st:
   * Website and API Releases
-    + [new] Added [{% if include.ads %}AI policy](../../help/policies/ai-policy){% else %}AI policy](../../scixhelp/policies-scix/ai-policy){% endif %} for readability to help page 
-    + [improved] Updated and reformated the [{% if include.ads %}bibgroups page](../../help/data_faq/Bibgroups){% else %}bibgroups page](../../scixhelp/data_faq-scix/Bibgroups){% endif %} for readability
+    + [new] Added [{% if include.ads %}AI policy](../../help/policies/ai-policy){% else %}AI policy](../../scixhelp/policies-scix/ai-policy){% endif %} to help page 
+    + [improved] Updated and reformatted the [{% if include.ads %}bibgroups page](../../help/data_faq/Bibgroups){% else %}bibgroups page](../../scixhelp/data_faq-scix/Bibgroups){% endif %} for readability
 
   * Data holdings and pipelines
     + 168k new records, and 12.9M new citations
