@@ -1,7 +1,7 @@
 ---
 layout: about_scix
-title: "Jennifer Koch"
-team_id: "jkoch"
+title: "Jennifer March"
+team_id: "jmarch"
 ---
 
-{% include _teambios/jkoch.md %}
+{% include _teambios/jmarch.md %}
