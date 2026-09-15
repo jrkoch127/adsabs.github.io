@@ -5,4 +5,4 @@ Jenny March (she/her/hers) has been a Librarian at the ADS/SciX since August 202
 
 Jenny's current responsibilities with ADS/SciX includes implementing new tools, technology services, and collaboration infrastructures to support curation efforts, as well as assisting in collection management, content decisions, documentation, and user support.
 
-[jennifer.march [at] sao.si.edu](mailto:jennifer.koch@sao.si.edu)
+[jennifer.march [at] cfa.harvard.edu](mailto:jennifer.march@cfa.harvard.edu)
